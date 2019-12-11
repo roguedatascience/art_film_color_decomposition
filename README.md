@@ -21,10 +21,21 @@ To answer these questions, I developped an algorithm that extraxts and consisten
 
 Here are some examples:
 
-### Botero
+#### Fernando Botero
+<p align="center">
+  <img src="readme_images/botero_google_search.png" width="550"/>
+</p>
 
+#### Amelie (trailer)
+<p align="center">
+  <img src="readme_images/botero_google_search.png" width="550"/>
+</p>
 
-### 
+#### The Simpsons (opening credits)
+<p align="center">
+  <img src="readme_images/botero_google_search.png" width="550"/>
+</p>
+
 
 [standalone R file](binary_posters--shiny_app.R).
 
