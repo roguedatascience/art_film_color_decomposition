@@ -36,12 +36,9 @@ Here are some examples:
   <img src="readme_images/fresh_prince_final-01.png" width="550"/>
 </p>
 
+The full code for the color decomposition of Botero's work can be found here: [Boter example](botero_example).
 
-[standalone R file](binary_posters--shiny_app.R).
 
-You can find the live app here: https://roguedatascience.shinyapps.io/binary_images/
-
-To better understand the functionality of the tool, it's super helpful to look at the following examples. You can find the high definition images as well as the app settings needed to produce them here: [El Pibe Valderrama example](pibe_example).
 
 ### Original image 
 <p align="center">
