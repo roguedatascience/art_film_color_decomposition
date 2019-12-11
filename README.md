@@ -11,7 +11,7 @@ This project grew out of a basic question: what are the colors that Fernando Bot
 </p>
 This lead to a natural next question: how do these colors compare to his other paintings?
 <p align="center">
-  <img src="readme_images/botero_the_musicians.jpg" width="350"/>
+  <img src="readme_images/botero_google_search.jpg" width="550"/>
 </p>
 
 [standalone R file](binary_posters--shiny_app.R).
