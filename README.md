@@ -23,17 +23,17 @@ Here are some examples:
 
 #### Fernando Botero
 <p align="center">
-  <img src="readme_images/fresh_prince_final-01.png" width="450"/>
+  <img src="botero_example/botero_example.png" width="550"/>
 </p>
 
 #### Amelie (trailer)
 <p align="center">
-  <img src="readme_images/amelie_final-01.png" width="450"/>
+  <img src="readme_images/amelie_final-01.png" width="550"/>
 </p>
 
 #### The Fresh Prince of Bel-Air (opening credits)
 <p align="center">
-  <img src="readme_images/fresh_prince_final-01.png" width="450"/>
+  <img src="readme_images/fresh_prince_final-01.png" width="550"/>
 </p>
 
 
