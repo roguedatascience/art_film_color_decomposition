@@ -36,6 +36,4 @@ Here are some examples:
   <img src="readme_images/fresh_prince_final-01.png" width="550"/>
 </p>
 
-The full code for the color decomposition of Botero's work can be found here: [Boter example](botero_example).
-
-You can also fin the high definition visualizations for [artists](gallery/artists), [trailers](gallery/trailers) and [TV show opening credits](gallery/tv_show_openings).
+The full code for the color decomposition of Botero's work can be found here: [Boter example](botero_example). You can also fin the high definition visualizations for [artists](gallery/artists), [trailers](gallery/trailers) and [TV show opening credits](gallery/tv_show_openings).
