@@ -7,7 +7,7 @@
 
 This project grew out of a basic question: what are the colors that Fernando Botero, a famous Colombian painter and scultpter, uses in "Los Musicos"?
 <p align="center">
-  <img src="pibe_example/pibe_original.jpg" width="550"/>
+  <img src="readme_images/botero_the_musicians.jpg" width="550"/>
 </p>
 
 [standalone R file](binary_posters--shiny_app.R).
