@@ -23,7 +23,7 @@ Here are some examples:
 
 #### Fernando Botero
 <p align="center">
-  <img src="botero_example/botero_example.png" width="550"/>
+  <img src="readme_images/botero_final-01.png" width="550"/>
 </p>
 
 #### Amelie (trailer)
