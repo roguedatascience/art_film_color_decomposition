@@ -1,9 +1,9 @@
 # Art and film color decomposition
 
 #### Related Instagram posts
-* https://www.instagram.com/p/Bm-3tyjhAyM/
-* https://www.instagram.com/p/Bm-4zQjhwz5/
 * https://www.instagram.com/p/Bm-5tIkhSgI/
+* https://www.instagram.com/p/Bm-4zQjhwz5/
+* https://www.instagram.com/p/Bm-3tyjhAyM/
 
 This project grew out of a basic question: what are the colors that Fernando Botero, a famous Colombian painter and scultpter, uses in "Los Musicos"?
 <p align="center">
@@ -24,7 +24,7 @@ Here are some examples:
 ### Botero
 
 
-###
+### 
 
 [standalone R file](binary_posters--shiny_app.R).
 
