@@ -17,6 +17,15 @@ This lead to a natural next question: how do these colors compare to his other p
 
 Then of course: how does Botero compare to other painters?
 
+To answer these questions, I developped an algorithm that extraxts and consistently graphs the the main colors from a group of images. These images can be, for example, the life work of an painter, like Botero. They can also be the trailer of movie or the opeikng credits of a TV show (for these, the videos were sampled for still images).
+
+Here are some examples:
+
+### Botero
+
+
+###
+
 [standalone R file](binary_posters--shiny_app.R).
 
 You can find the live app here: https://roguedatascience.shinyapps.io/binary_images/
