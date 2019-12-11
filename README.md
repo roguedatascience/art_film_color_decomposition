@@ -17,7 +17,7 @@ This lead to a natural next question: how do these colors compare to his other p
 
 Then of course: how does Botero compare to other painters?
 
-To answer these questions, I developed an algorithm that extracts and consistently graphs the the main colors from a group of images. These images can be, for example, the life work of a painter, like Botero. They can also be the trailer of movie or the opening credits of a TV show (for these, the videos were sampled for still images).
+To answer these questions, I developed an algorithm that extracts (usins k-means clustering at its core) and consistently graphs the the main colors from a group of images. These images can be, for example, the life work of a painter, like Botero. They can also be the trailer of movie or the opening credits of a TV show (for these, the videos were sampled for still images).
 
 Here are some examples:
 
