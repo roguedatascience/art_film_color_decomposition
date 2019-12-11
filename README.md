@@ -9,10 +9,13 @@ This project grew out of a basic question: what are the colors that Fernando Bot
 <p align="center">
   <img src="readme_images/botero_the_musicians.jpg" width="250"/>
 </p>
+
 This lead to a natural next question: how do these colors compare to his other paintings?
 <p align="center">
   <img src="readme_images/botero_google_search.png" width="550"/>
 </p>
+
+Then of course: how does Botero compare to other painters?
 
 [standalone R file](binary_posters--shiny_app.R).
 
