@@ -17,7 +17,7 @@ This lead to a natural next question: how do these colors compare to his other p
 
 Then of course: how does Botero compare to other painters?
 
-To answer these questions, I developped an algorithm that extraxts and consistently graphs the the main colors from a group of images. These images can be, for example, the life work of an painter, like Botero. They can also be the trailer of movie or the opeikng credits of a TV show (for these, the videos were sampled for still images).
+To answer these questions, I developped an algorithm that extraxts and consistently graphs the the main colors from a group of images. These images can be, for example, the life work of an painter, like Botero. They can also be the trailer of movie or the opening credits of a TV show (for these, the videos were sampled for still images).
 
 Here are some examples:
 
@@ -38,14 +38,4 @@ Here are some examples:
 
 The full code for the color decomposition of Botero's work can be found here: [Boter example](botero_example).
 
-
-
-### Original image 
-<p align="center">
-  <img src="pibe_example/pibe_original.jpg" width="550"/>
-</p>
-
-### Edited images
-<p align="center">
-  <img src="pibe_example/pibe1.png" width="550"/>
-
+You can also fin the high definition visualizations for [artists](gallery/artists), [trailers](gallery/trailers) and [TV show opening credits](gallery/tv_show_openings).
